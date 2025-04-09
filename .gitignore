@@ -1,0 +1,97 @@
+# .gitignore para projetos MATLAB
+
+# Arquivos temporários e de backup
+*.m~
+*.asv
+*.autosave
+*.tmp
+*.bak
+*.old
+
+# Arquivos binários e compilados
+*.mex*
+*.p
+*.dll
+*.exe
+*.obj
+*.o
+*.lib
+*.so
+*.a
+*.mod
+*.mexmaci64
+*.mexa64
+*.mexw64
+*.mexmaci
+*.mexw32
+*.mexglx
+
+# Arquivos de dados
+*.mat
+*.fig
+*.csv
+*.xlsx
+*.hdf5
+*.h5
+*.nc
+*.dat
+*.bin
+
+# Arquivos do Simulink
+*.slx
+*.slxc
+*.sfx
+*.sldd
+
+# Arquivos de projeto e IDE
+*.prj
+*.mlapp
+*.mltbx
+*.mlx
+*.mlproj
+*.mlproject
+.project
+.classpath
+
+# Pastas geradas
+simulink/
+.simulink/
+.settings/
+.metadata/
+.DS_Store
+*.cache/
+*.proj/
+*.slxc/
+*.sfprj/
+
+# Dependências e pacotes
++*/
++*.mltbx/
++*.mlappinstall/
+
+# Documentação e relatórios
+html/
+doc/
+help/
+*.pdf
+*.docx
+*.html
+*.chm
+report/
+
+# Sistemas de build
+build/
+dist/
+bin/
+deploy/
+
+# Pastas de teste
+test/
+tests/
+coverage/
+
+# Configurações de usuário
+*.prefs
+*.matlab.prf
+*.last_used_projects
+*.last_used_paths
