@@ -1,4 +1,4 @@
-# 🌟 Álgebra Linear com Octave — Sistemas de Informação 🌟
+# Álgebra Linear com Octave — Sistemas de Informação
 
 Bem-vindo ao meu repositório dedicado à disciplina de **Álgebra Linear**, cursada no bacharelado em **Sistemas de Informação**! Aqui você vai encontrar códigos, anotações e experimentos desenvolvidos com **Octave** — a versão open source do MATLAB — organizados por unidade de conteúdo 📚💻.
 
